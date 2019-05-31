@@ -16,12 +16,19 @@
             </span>
         {% endif %}
 
+        {% if page.title == "Projects" %}
+            <h1 class="title">{{ "RELACS" }}</h1>
+            <h2 class="description">{{"Rodent Early Life Adversity Consortium on Stress"}}</h2>
+        {% else %}
             <h1 class="title">{{ site.name }}</h1>
             <h2 class="description">{{ site.bio }}</h2>
+        {% endif %}
 
         {% include social-links.html %}
     </header>
 {% endif %}
+
+
 
 
 {% include nav.html %}
