@@ -7,7 +7,7 @@
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.about %}
-            <a class="link">
+            <a class="link" href="{{ site.url }}/about">
                 <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
             </a>
         {% else %}
@@ -16,13 +16,8 @@
             </span>
         {% endif %}
 
-        {% if site.projects %}
-            <h1 class="title">{{ "RELACS"}}</h1>
-            <h2 class="description">{{ "Rodent Early Life Adversity Consortium on Stress"}}</h2>
-        {% else %}
-        <h1 class="title">{{ site.name }}</h1>
-        <h2 class="description">{{ site.bio }}</h2>
-        {% endif %}
+            <h1 class="title">{{ site.name }}</h1>
+            <h2 class="description">{{ site.bio }}</h2>
 
         {% include social-links.html %}
     </header>
