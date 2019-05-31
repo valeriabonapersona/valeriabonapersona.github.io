@@ -4,43 +4,28 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am an interdisciplinary scientist interested in the effects of stress on the brain and the body. I am a strong supporter of hypothesis-driven research, and I am passionate about the use of statistical and synthesis (e.g. meta-analysis) techniques to reduce animal experimentation. Currently, I use a combination of wet and dry lab techniques to investigate in rodents how stress in early life affects the connectivity between brain areas, ultimately leading to changes in behavior.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<h2>Skills</h2>
+<h2>I like to nerd about </h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Stress</li>
+	<li>Animal research</li>
+	<li>Neuroscience & Brain development</li>
+	<li>Research synthesis & Meta-analysis</li>
+
+	<li>R</li>
+
+	<li>Classical music (piano)</li>
+
+
 </ul>
 
-<h2>Projects</h2>
+<h2>Publications</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://osf.io/ra947/">Early life adversity and behavior</a></li>
+	<li><a href="https://www.researchgate.net/publication/327521324_Effects_of_early_life_stress_on_biochemical_indicators_of_the_dopaminergic_system_A_3_level_meta-analysis_of_rodent_studies">Early life adversity and the dopaminergic system</a></li>
+
 </ul>
