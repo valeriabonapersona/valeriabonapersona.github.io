@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/Bonapersona_CV_Jan2019_02.pdf
 
-url: https://valeriabonapersona.github.io
+url: http://valeriabonapersona.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
