@@ -1,9 +1,9 @@
 # main text of home
-name: Valeria B
-bio: A Man who travels the world eating noodles
+name: Valeria Bonapersona
+bio: PhD candidate Neuroscience | Stress research
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A junior's researcher view on Science
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://valeriabonapersona.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,15 +34,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: VBonapersona
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: valeriabonapersona
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,15 +51,15 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: v.bonapersona-2@umcutrecht.nl
 
 authors:
     johndoe:
         name: Valeria Bonapersona
-        bio: A Man who travels the world eating noodles
+        bio: PhD candidate Neuroscience | Stress research
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: VBonapersona
 
 
 # do you want a larger site? change the option below
