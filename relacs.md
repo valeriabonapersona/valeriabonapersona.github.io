@@ -5,9 +5,6 @@ permalink: /relacs/index.html
 image: /assets/images/relacs_update_20190618.png
 ---
 
-<h1 style="margin-bottom: 25px; color: red;">Relacs </h1>
-<p class="bio" align = "center" style="margin-bottom: 50px;">Rodent Early Life Adversity Consortium on Stress</p>
-
 <img alt="{{ site.name }}" src="{{page.image }}" />
 
 
