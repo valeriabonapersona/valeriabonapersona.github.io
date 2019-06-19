@@ -19,9 +19,6 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
 </p>
-<p align = "center">
-<img src="https://raw.githubusercontent.com/valeriabonapersona/valeriabonapersona.github.io/master/assets/images/profile.jpg" />
-</p>
 
 ## What has inside
 
