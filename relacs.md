@@ -5,7 +5,7 @@ permalink: /relacs/index.html
 image: /assets/images/relacs_update_20190618.png
 ---
 
-<img alt="{{ site.name }}" src="{{page.image }}" />
+<img src="{{page.image }}">
 
 
 <p style="margin-top: 50px; margin-bottom: 50px">Relacs is a unique consortium that collects and re-analyzes rodent data on the effects of early life adversity (ELA) on learning and memory. Funded in April 2019, 6 laboratories around the globe have already donated their pilot and (un)published data.  </p>
