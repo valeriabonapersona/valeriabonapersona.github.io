@@ -1,8 +1,10 @@
 ---
-title: Tryout
+title: Software
 layout: page
-permalink: /tryout/index.html
+permalink: /software/index.html
 image: /assets/images/relacs_update_20190618.png
 ---
 
-Here a tryout
+Coming soon! 
+
+Working on a pretty page!
