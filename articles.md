@@ -1,8 +1,7 @@
 ---
-title: Publications
+title: Articles
 layout: page
-permalink: /publications/index.html
-image: /assets/images/relacs_update_20190618.png
+permalink: /articles/index.html
 ---
 
 List of publications
