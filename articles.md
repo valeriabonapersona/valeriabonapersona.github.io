@@ -1,7 +1,7 @@
 ---
-title: Publications
+title: Articles
 layout: page
-permalink: /publications/index.html
+permalink: /articles/index.html
 ---
 
 List of publications
