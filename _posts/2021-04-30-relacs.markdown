@@ -8,8 +8,8 @@ tag:
   - consortium
   - early life adversity
   - animal research
-image: {{site.url}}/assets/images/relacs_update_20190618.png
-headerImage: true
+image: 
+headerImage: false
 projects: true
 hidden: false # if true don't count this post in blog pagination
 description: "A consortium of animal researchers studying early life adversity"
