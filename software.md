@@ -20,7 +20,7 @@ R packages
 Interactive software
 ----
 <p align="center">
-<img src="{{site.url}}/assets/images/icon_repair.tif" width="50%" height="50%"> 
+<img src="{{site.url}}/assets/images/repair.svg" width="50%" height="50%"> 
 </p>
 <b>RePAIR</b> is an R package for data preprocessing and analysis of whole-brain microscopy over time. [Web-tool](https://utrecht-university.shinyapps.io/repair).
 
