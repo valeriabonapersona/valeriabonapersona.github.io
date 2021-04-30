@@ -17,13 +17,14 @@ power of animal experiments with historical control data. Nature Neuroscience, 2
 [osf](https://osf.io/wvs7m/).
 
 <br><br>
+
 PhD publications
 ----
 
 **Bonapersona, V.**, Hoijtink, H., Sarabdjitsingh, R. A., & Joëls, M. (2021). Pipeline for 4D whole-brain microscopy 
 preprocessing and analysis. *In preparation*
 [Web Tool](https://vbonapersona.shinyapps.io/brain_after_footshock/), [Code](https://github.com/valeriabonapersona/footshock_brain), 
-[R package](valeriabonapersona.github.io/abc4d),[osf](https://osf.io/8muvw/).
+[R package](valeriabonapersona.github.io/abc4d), [osf](https://osf.io/8muvw/).
 
 
 **Bonapersona, V.**, Hoijtink, H., Sarabdjitsingh, R. A., & Joëls, M. (2021). Increasing the statistical 
