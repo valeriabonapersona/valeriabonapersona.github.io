@@ -31,13 +31,31 @@ to decrease the number of animals to perform well-powered research. [Web-tool](h
 Data visualizations - it's <i>shiny</i>
 ----
 
-<table border="0">
- <tr>
-    <td> The mouse brain after footshock </td>
-    <td><img src="{{site.url}}/assets/images/brain_after_footshock.png" width = "100%" ></td>
- </tr>
- </table>
- [Web tool](https://utrecht-university.shinyapps.io/brain_after_footshock), Publication.
+<p align="center">
+<img src="{{site.url}}/assets/images/brain_after_footshock.png" width="100%" height="100%"> 
+</p>
+<b>The mouse brain after footshock.</b> [Web tool](https://utrecht-university.shinyapps.io/brain_after_footshock), Publication <i>coming soon</i>.
+
+<br><br>
+
+<p align="center">
+<img src="{{site.url}}/assets/images/stress_nl.png" width="100%" height="100%"> 
+</p>
+<b>Stress-nl.</b> [Web tool](https://vbonapersona.shinyapps.io/stress_nl_app), Publication <i>coming soon</i>.
+
+<br><br>
+
+<p align="center">
+<img src="{{site.url}}/assets/images/MaBapp.png" width="100%" height="100%"> 
+</p>
+<b>MaBapp: behavioural phenotype of early life adversity.</b> [Web tool](https://vbonapersona.shinyapps.io/MaBapp), [Publication](https://doi.org/10.1016/j.neubiorev.2019.04.021).
+
+<br><br>
+
+<p align="center">
+<img src="{{site.url}}/assets/images/MaDEapp.png" width="100%" height="100%"> 
+</p>
+<b>MaDEapp: early life adversity and dopamine.</b> [Web tool](https://vbonapersona.shinyapps.io/MaDEapp), [Publication](https://doi.org/10.1016/j.neubiorev.2018.09.003).
 
 
 
