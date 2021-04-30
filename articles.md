@@ -16,9 +16,9 @@ power of animal experiments with historical control data. Nature Neuroscience, 2
 [Web Tool](https://utrecht-university.shinyapps.io/repair/), [Code](https://github.com/valeriabonapersona/RePAIR), 
 [osf](https://osf.io/wvs7m/).
 
-
-PhD publications
-----
+<br> <br> 
+<details>
+    <summary><b>PhD publications</b></summary>
 
 **Bonapersona, V.**, Hoijtink, H., Sarabdjitsingh, R. A., & Joëls, M. (2021). Pipeline for 4D whole-brain microscopy 
 preprocessing and analysis. *In preparation*
@@ -47,10 +47,12 @@ of the dopaminergic system: a 3 level meta-analysis of rodent studies. Neuroscie
 [Web Tool](https://vbonapersona.shinyapps.io/MaDEapp/), 
 [Data](https://data.mendeley.com/datasets/6yz5gtmdhm/1), [osf](https://osf.io/w25m4/).
 
+</details>
 
-
-Other Publications
-----
+<br> <br> 
+<details>
+    <summary><b>Other publications</b></summary>
+    
 van der Veen, R., **Bonapersona, V.**, & Joëls, M. (2020). The relevance of a rodent cohort in the Consortium 
 on Individual Development. Developmental cognitive neuroscience, 45, 100846.
 [Publication](https://doi.org/10.1016/j.dcn.2020.100846).
@@ -59,3 +61,4 @@ on Individual Development. Developmental cognitive neuroscience, 45, 100846.
 R. A. (2019). Sex-Dependent modulation of acute stress reactivity after early life stress in mice: relevance of 
 mineralocorticoid receptor expression. Frontiers in behavioral neuroscience, 13, 181.
 [Publication](https://doi.org/10.3389/fnbeh.2019.00181).
+</details>
