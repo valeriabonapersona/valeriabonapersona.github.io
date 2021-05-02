@@ -7,8 +7,10 @@ permalink: /art/index.html
 Art
 ======
 
+
 Piano
 ----
+
 <p align="center">
 <img src="{{site.url}}/assets/images/valeria_piano.jpeg" width="50%" height="50%"> 
 </p>
@@ -19,8 +21,10 @@ I graduated from the Conservatorium in 2016 (grade _9.5/10_) under the supervisi
 Picture by EJ van Kesteren. 
 <br><br>
 
+
 New hobbies
 ----
+
 <p align="center">
 <img src="{{site.url}}/assets/images/gaia.jpg" width="50%" height="50%"> 
 </p>
