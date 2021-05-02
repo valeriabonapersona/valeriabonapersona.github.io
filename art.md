@@ -26,5 +26,5 @@ New hobbies
 </p>
 Drawing of my little niece, Gaia. 
 <br><br>
-Gaia is a ig inspiration for me, so I also made her a <b>lullaby</b> for when she was born. To listen to it, click [here](/assets/Gaia.mp3"). 
+Gaia is a ig inspiration for me, so I also made her a <b>lullaby</b> for when she was born. To listen to it, click [here](/assets/Gaia.mp3). 
 Big thanks to Dirk Jan Ardesh for recording with me.
