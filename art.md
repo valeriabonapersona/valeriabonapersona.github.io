@@ -7,7 +7,7 @@ permalink: /art/index.html
 Art
 ======
 
-Music
+Piano
 ----
 <p align="center">
 <img src="{{site.url}}/assets/images/valeria_piano.jpeg" width="50%" height="50%"> 
@@ -16,10 +16,15 @@ Playing classical music with the piano has been my first true love, and the firs
 Music is not that different from Science. It requires skill, talent, rigor and perseverance, but also support and guidance. 
 I graduated from the Conservatorium in 2016 (grade _9.5/10_) under the supervision and mentorship of M. Roberto Plano.
 <br>
+Picture was taken by E.J. van Kesteren. 
+<br><br>
 
-Drawing
+New hobbies
 ----
 <p align="center">
-<img src="{{site.url}}/assets/images/gaia.eps"> 
+<img src="{{site.url}}/assets/images/gaia.eps" width="50%" height="50%"> 
 </p>
 Drawing of my little niece, Gaia. 
+<br>
+Gaia is a ig inspiration for me, so I also made her a lullaby for when she was born. To listen to it, click [here]({{site.url}}/assets/Gaia.mp3"). 
+Big thanks to Dirk-Jan Ardesh for recording with me.
