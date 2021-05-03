@@ -12,12 +12,8 @@ layout: page
     
 </p>
 
-<h2>Curriculum vitae</h2>
-Download a one-page CV [here](assets/Bonapersona_CV_Feb2021_onePage.pdf).
+<br><br>
+Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 
-
+<br><br>
 <h2>Let's get in touch!</h2>
-
-<br>
-
-<h2> All else: </h2>
