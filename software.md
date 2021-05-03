@@ -48,14 +48,14 @@ Data visualizations - it's <i>shiny</i>
 <p align="center">
 <img src="{{site.url}}/assets/images/MaBapp.png" width="100%" height="100%"> 
 </p>
-<b>MaBapp: behavioural phenotype of early life adversity.</b> [Web tool](https://vbonapersona.shinyapps.io/MaBapp), [Publication](https://doi.org/10.1016/j.neubiorev.2019.04.021).
+<b>MaBapp</b>: perform your own meta-analysis on the behavioural phenotype of early life adversity. [Web tool](https://vbonapersona.shinyapps.io/MaBapp), [Publication](https://doi.org/10.1016/j.neubiorev.2019.04.021).
 
 <br><br>
 
 <p align="center">
 <img src="{{site.url}}/assets/images/MaDEapp.png" width="100%" height="100%"> 
 </p>
-<b>MaDEapp: early life adversity and dopamine.</b> [Web tool](https://vbonapersona.shinyapps.io/MaDEapp), [Publication](https://doi.org/10.1016/j.neubiorev.2018.09.003).
+<b>MaDEapp</b>: select the rodent population of interest, and meta-analyze the effects of early life adversity on dopamine.</b> [Web tool](https://vbonapersona.shinyapps.io/MaDEapp), [Publication](https://doi.org/10.1016/j.neubiorev.2018.09.003).
 
 
 
