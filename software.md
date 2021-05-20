@@ -7,7 +7,7 @@ image: /assets/images/abc4d.svg
 
 Software
 ======
-A brief summary of the softwares (and icons!) I have **personally developed**.
+A brief summary of the softwares (and icons!) I have personally developed.
 
 R packages
 ----
