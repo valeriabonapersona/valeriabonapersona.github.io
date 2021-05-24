@@ -22,6 +22,19 @@ Picture by EJ van Kesteren.
 <br><br>
 
 
+Yoga & Meditation
+----
+
+<p align="center">
+<img src="{{site.url}}/assets/images/valeria_yoga.jpeg" width="50%" height="50%"> 
+</p>
+I practice meditation (Advaita philosophy) and Ashtanga yoga daily. As Science offers the possibility to discover the world 'outside', meditation 
+is to me the discovery of the world 'inside'. 
+
+<br>
+Picture in the beautiful Italian Alps by Eelco Meerdink. 
+<br><br>
+
 New hobbies
 ----
 
