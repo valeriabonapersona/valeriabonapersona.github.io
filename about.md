@@ -36,7 +36,6 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 <details>
   <summary>Click for PhD courses</summary>
   
-    
   ####In depth courses
   * Advanced Omics for Life Sciences (CS&D, Nov 2020)
   * Individual participant data meta-analyses (Julius Center, June 2020)
