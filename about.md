@@ -20,6 +20,9 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 
 <h3>Research experience</h3>
 
+<details>
+    <summary><h4>Click for research experience</h4></summary>
+    
 |  Position | Supervisor | Affiliation |  Brief description | When | 
 |---------|---------|---------|---------|---------|
 | PhD candidate | Prof. dr. Joëls & Prof. Hoijtink | UMC Utrecht Brain Center & Dept. Methodology & Statistics Utrecht University (NL) |  Combination of wet and dry lab techniques to give a global overview on the effects of stress on the brain | Sep 2017 - present | 
@@ -27,6 +30,7 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 | Master Internship | Dr. Sarabdjitsingh (lab Joëls) | Brain Center Rudolf Magnus (NL) | Stress receptors and HPA axis reactivity in rodent model | Nov 2015 - Nov 2016 |
 | Bachelor thesis | Dr. de Graaff | Wilhelmina Kinderziekenhuis (NL) | Music intervention to prevent emergence delirium in children after anaesthesia | July 2014 - May 2015 |
 | Bachelor Internship | Dr. van Campen (lab Joëls) | Brain Center Rudolf Magnus (NL) | Quantification with Neurolucida of neuronal spine density in a mouse model of epilepsy | Aug 2013 - March 2014 |
+</details>
 
 
 <br><br>
