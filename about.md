@@ -34,9 +34,9 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 <h3>Education</h3>
 
 <details>
-  <summary>Click for PhD courses</summary>
+    <summary><h4>Click for PhD courses</h4></summary>
   
-  ####In depth courses
+  #### In depth courses
   * Advanced Omics for Life Sciences (CS&D, Nov 2020)
   * Individual participant data meta-analyses (Julius Center, June 2020)
   * Neurobiology of stress and resilience (NSAS, August 2018)
@@ -54,7 +54,7 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 
 
 <details>
-  <summary>Click for details on my degrees</summary>
+  <summary><h4>Click for my degrees</h4></summary>
     
     
 |  Degree | University | Additional activities | Grade | When |
