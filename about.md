@@ -15,6 +15,10 @@ layout: page
 <br><br>
 Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 
+|  Position | Supervisor | Affiliation |  Brief description | When | 
+|---------|----------|----------|----------|----------|
+| PhD candidate | Prof. dr. Joëls & Prof. Hoijtink | UMC Utrecht Brain Center & Dept. Methodology & Statistics Utrecht University (NL) |  Combination of wet and dry lab techniques to give a global overview on the effects of stress on the brain | Sep 2017 - present | 
+
 
 <br><br>
 
@@ -45,7 +49,7 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 <details>
   <summary>Click for in depth PhD courses</summary>
 
-    <p>
+    
     **In depth courses**
     
     - Advanced Omics for Life Sciences (CS&D, Nov 2020)
@@ -62,7 +66,7 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
     - Personal competences (July 2019)
     
     - This thing called Science (Jan-Dec 2018)
-    </p>
+    
     
 
 </details>
