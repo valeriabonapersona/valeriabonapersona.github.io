@@ -30,10 +30,10 @@ Yoga & Meditation
 </p>
 I practice meditation (Advaita philosophy) and Ashtanga yoga daily. As Science offers the possibility to discover the world 'outside', meditation 
 is to me the discovery of the world 'inside'. 
-
 <br>
 Picture in the beautiful Italian Alps by Eelco Meerdink. 
 <br><br>
+
 
 New hobbies
 ----
