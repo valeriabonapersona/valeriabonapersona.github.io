@@ -19,6 +19,8 @@ resume-url: assets/Bonapersona_CV_Jan2019_02.pdf
 url: http://valeriabonapersona.github.io
 # your url: http://USERNAME.github.io
 
+markdown: CommonMarkGhPages
+
 permalink: /:title/
 
 # To enable google analytics, supply your token below
