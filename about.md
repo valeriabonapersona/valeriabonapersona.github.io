@@ -14,7 +14,7 @@ layout: page
 
 <br><br>
 Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
-
+ 
 
 <br><br>
 
@@ -33,22 +33,30 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 
 <h3>Education</h3>
 
-**In depth courses**   
-- Advanced Omics for Life Sciences (CS&D, Nov 2020)
-- Individual participant data meta-analyses (Julius Center, June 2020)
-- Neurobiology of stress and resilience (NSAS, August 2018)
-- Writing reproducible code (UU, Dec 2019)
-- Systematic reviews and meta-analyses of preclinical animal studies (Radboud UMC, May 2019) 
+<details>
+  <summary>Click for PhD courses</summary>
+  
+    
+  ####In depth courses
+  * Advanced Omics for Life Sciences (CS&D, Nov 2020)
+  * Individual participant data meta-analyses (Julius Center, June 2020)
+  * Neurobiology of stress and resilience (NSAS, August 2018)
+  * Writing reproducible code (UU, Dec 2019)
+  * Systematic reviews and meta-analyses of preclinical animal studies (Radboud UMC, May 2019)
+  * This thing called Science (Jan-Dec 2018)
+    
+  #### Soft-skills courses
+  * Analytic storytelling (Sep 2020)
+  * InDesign (Nov 2020)
+  * Science communication (May-June 2019)
+  * Explore personal qualities (2020)
+  * Personal competences (July 2019)
+</details>
 
 
-**Soft skills courses**
-- Analytic storytelling (Sep 2020)
-- Science communication (May-June 2019)
-- Explore personal qualities (2020)
-- Personal competences (July 2019)
-
-- This thing called Science (Jan-Dec 2018)
-
+<details>
+  <summary>Click for details on my degrees</summary>
+    
     
 |  Degree | University | Additional activities | Grade | When |
 |---------|----------|----------|----------|----------|
@@ -56,3 +64,4 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 | Master Neuroscience and Cognition | Utrecht University (NL) |  Chief student Journal Neuroscience & Cognition (2015-2016), Master students' representative (2015-2017) | cum laude | Sep 2015 - August 2017 | 
 | Bachelor of Science (minor Psychology and Statistics) | University College Utrecht (Liberal Arts and Sciences, NL) |  Chair committee MusicCo (2013-2015) | cum laude | Sep 2012 - July 2017 |
 | Diploma Piano performance | Conservatorium Alessandria (IT) | Also student at conservatorium Vicenza, musical institute 'Puccini' (Gallarate, IT), international academy 'Cortot' (IT), masterclasses at 'Santa Cecilia' (IT) and 'Braine l'Alleaud' (BE) | 9.5/10 | Sep 2006 - Feb 2016 |
+</design>
