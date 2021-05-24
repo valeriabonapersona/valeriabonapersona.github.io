@@ -20,13 +20,18 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 
 
 <h2>Research experience</h2>
-<div class="datatable-begin"></div>
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+    <div class="datatable-begin"></div>
 
-Food    | Description                           | Category | Sample type
-------- | ------------------------------------- | -------- | -----------
-Apples  | A small, somewhat round ...           | Fruit    | Fuji
-Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
-Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
-Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
+    Food    | Description                           | Category | Sample type
+    ------- | ------------------------------------- | -------- | -----------
+    Apples  | A small, somewhat round ...           | Fruit    | Fuji
+    Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
+    Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
+    Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
 
-<div class="datatable-end"></div>
+    <div class="datatable-end"></div>
+</details>
