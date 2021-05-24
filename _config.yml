@@ -20,6 +20,9 @@ url: http://valeriabonapersona.github.io
 # your url: http://USERNAME.github.io
 
 markdown: CommonMarkGhPages
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 
 permalink: /:title/
 
