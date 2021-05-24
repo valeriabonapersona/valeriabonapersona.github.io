@@ -16,19 +16,6 @@ layout: page
 Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 
 
-<details>
-
-|  Position | Supervisor | Affiliation |  Brief description | When | 
-|---------|----------|----------|----------|----------|
-| PhD candidate | Prof. dr. Joëls & Prof. Hoijtink | UMC Utrecht Brain Center & Dept. Methodology & Statistics Utrecht University (NL) |  Combination of wet and dry lab techniques to give a global overview on the effects of stress on the brain | Sep 2017 - present | 
-| Master Internship | Prof. dr. Walker | University of Edinburgh (UK) | In vitro and in vivo experiments to investigate glucocorticoids' delivery to tissues | Feb 2017 - July 2017 |
-| Master Internship | Dr. Sarabdjitsingh (lab Joëls) | Brain Center Rudolf Magnus (NL) | Stress receptors and HPA axis reactivity in rodent model | Nov 2015 - Nov 2016 |
-| Bachelor thesis | Dr. de Graaff | Wilhelmina Kinderziekenhuis (NL) | Music intervention to prevent emergence delirium in children after anaesthesia | July 2014 - May 2015 |
-| Bachelor Internship | Dr. van Campen (lab Joëls) | Brain Center Rudolf Magnus (NL) | Quantification with Neurolucida of neuronal spine density in a mouse model of epilepsy | Aug 2013 - March 2014 |
-
-
-</details>
-
 <br><br>
 
 <h3>Research experience</h3>
@@ -40,7 +27,7 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
   <summary>Click for details</summary>
 
 |  Position | Supervisor | Affiliation |  Brief description | When | 
-|---------|----------|----------|----------|----------|
+|:---------:|:---------:|:---------:|:---------:|:---------:|
 | PhD candidate | Prof. dr. Joëls & Prof. Hoijtink | UMC Utrecht Brain Center & Dept. Methodology & Statistics Utrecht University (NL) |  Combination of wet and dry lab techniques to give a global overview on the effects of stress on the brain | Sep 2017 - present | 
 | Master Internship | Prof. dr. Walker | University of Edinburgh (UK) | In vitro and in vivo experiments to investigate glucocorticoids' delivery to tissues | Feb 2017 - July 2017 |
 | Master Internship | Dr. Sarabdjitsingh (lab Joëls) | Brain Center Rudolf Magnus (NL) | Stress receptors and HPA axis reactivity in rodent model | Nov 2015 - Nov 2016 |
