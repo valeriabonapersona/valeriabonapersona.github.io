@@ -17,6 +17,7 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 <br><br>
 
 <h3>Research experience</h3>
+Prior to my PhD, I have been involved in several research projects on the general topic of "stress". I have gained experience in *in vivo* as well as *in vitro* applied research. Ultimately, I became more interested in analysis and modelling, and I further specialized in meta-research, bioinformatics and Bayesian statistics.
 
 <details>
     <summary><h4>Click for research experience</h4></summary>
@@ -30,15 +31,13 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 | Bachelor Internship | Dr. van Campen (lab Joëls) | Brain Center Rudolf Magnus (NL) | Quantification with Neurolucida of neuronal spine density in a mouse model of epilepsy | Aug 2013 - March 2014 |
 </details>
 
-
-<br><br>
-
+<br>
 <h3>Education</h3>
 
 <details>
     <summary><h4>Click for PhD courses</h4></summary>
   
-  #### In depth courses
+  ##### In depth courses
   * Advanced Omics for Life Sciences (CS&D, Nov 2020)
   * Individual participant data meta-analyses (Julius Center, June 2020)
   * Neurobiology of stress and resilience (NSAS, August 2018)
@@ -46,7 +45,7 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
   * Systematic reviews and meta-analyses of preclinical animal studies (Radboud UMC, May 2019)
   * This thing called Science (Jan-Dec 2018)
     
-  #### Soft-skills courses
+  ##### Soft-skills courses
   * Analytic storytelling (Sep 2020)
   * InDesign (Nov 2020)
   * Science communication (May-June 2019)
@@ -62,7 +61,73 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 |  Degree | University | Additional activities | Grade | When |
 |---------|----------|----------|----------|----------|
 | PhD candidate | UMC Utrecht Brain Center & Dept. Methodology & Statistics Utrecht University (NL) |  PhD representative (2017-present), PhD council (2018-2019) | | Sep 2017 - present | 
-| Master Neuroscience and Cognition | Utrecht University (NL) |  Chief student Journal Neuroscience & Cognition (2015-2016), Master students' representative (2015-2017) | cum laude | Sep 2015 - August 2017 | 
+| Master Neuroscience and Cognition | Utrecht University (NL) |  Chief student Journal Neuroscience & Cognition (2015-2016), selected member Excellence Programme U/Select, Master students' representative (2015-2017) | cum laude | Sep 2015 - August 2017 | 
 | Bachelor of Science (minor Psychology and Statistics) | University College Utrecht (Liberal Arts and Sciences, NL) |  Chair committee MusicCo (2013-2015) | cum laude | Sep 2012 - July 2017 |
 | Diploma Piano performance | Conservatorium Alessandria (IT) | Also student at conservatorium Vicenza, musical institute 'Puccini' (Gallarate, IT), international academy 'Cortot' (IT), masterclasses at 'Santa Cecilia' (IT) and 'Braine l'Alleaud' (BE) | 9.5/10 | Sep 2006 - Feb 2016 |
-</design>
+
+</details>
+
+<br>
+<h3>Honors and Awards</h3>
+As of June 2021, I have received 6 awards at conferences, 1 award at a PhD competition in Pharmachology and 2 scholarships for internships. 
+
+<details>
+  <summary><h4>Click for awards</h4></summary>
+    
+    
+|  Award | Where | When |
+|---------|----------|----------|----------|----------|
+| Best **oral presentation** | Translational Neuroscience Day (NL) | 2019 |
+| Best **oral presentation** | ONWAR PhD symposium (NL) | 2019 |
+| Best **poster** | Dutch Neuroscience Meeting (NL) | 2018 | 
+| | | |
+| 2nd prize | FIGON - PhD competition in pharmachology (NL) | 2019 | 
+| | | |
+| **Travel** grant | S4 - Small Sample Size Solutions (NL, *postponed*) | 2020 | 
+| **Travel** grant | ECNP - European College of Neuropsychopharmachology (FR, *cancelled*) | 2020 | 
+| **Travel** grant | EBBS - European Brain Behaviour Society (CZ) | 2019 | 
+| | | |
+| scholarships | For master internships (cumulative, 4500e) | 2019 | 
+   
+</details>
+
+
+<h3>Presentations</h3>
+As of June 2021, I have presented posters at 10 (inter)national conferences, and I have been invited for oral presentations at 3 (inter)national conferences and at X other events
+
+<details>
+  <summary><h4>Click for presentations</h4></summary>
+    
+|  What | Where | When | 
+|---------|----------|----------|
+| Presentation conference *invite* | ASK MARIAN WHERE (NL) | 2021 | 
+| Presentation conference *invite* | Open Science Symposium Utrecht (NL) | 2020 | 
+| Presentation conference *invite* | Dutch Neuroscience Meeting (NL) | 2019 | 
+| Presentation conference *invite* | Open Science Symposium Utrecht (NL) | 2020 | 
+| | | | 
+| Presentation *invite* | Social Lab (NL) | 2021 | 
+| Presentation *invite* | Laboratory Animal Workers Meeting (UMC, NL) | 2021 | 
+| Presentation *invite* | SYRCLE (NL) | 2021 | 
+| Presentation *invite* | CID Spotlight (ADD LINK) (NL) | 2020 | 
+| Presentation *invite* | Lucassen Lab (NL) | 2019 | 
+| Presentation *invite* | Kemner Lab (NL) | 2018 | 
+| | | | 
+| Poster | Equator (DE) | 2020 | 
+| Poster | Winter Stress conference (DE) | 2019 | 
+| Poster | FENS Forum (DE) | 2016-2018 | 
+| Poster | Dutch Neuroscience Meeting (NL) | 2016-2018 | 
+| Poster | Science for Life (NL) | 2017 | 
+| Poster | Translational Neuroscience Symposium (NL) | 2016 - 2017 | 
+| Poster | Cardiovascular Symposium (UK) | 2017 | 
+| | | |
+| Masterclass | With Prof. Dr. Baram | 2019 | 
+
+   
+</details>
+
+
+<h3>Teaching</h3>
+Work in progress
+
+<h3>Reviewing</h3>
+Work in progress
