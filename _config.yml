@@ -18,15 +18,12 @@ resume-url: assets/Bonapersona_CV_Jan2019_02.pdf
 
 url: http://valeriabonapersona.github.io
 # your url: http://USERNAME.github.io
-
-kramdown:
-  input: GFM
   
-#markdown: CommonMarkGhPages
+markdown: CommonMarkGhPages
 
-#commonmark:
- # options: ["SMART", "FOOTNOTES"]
- # extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 
 permalink: /:title/
 
