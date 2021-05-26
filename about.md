@@ -17,6 +17,7 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 <br><br>
 
 <h3>Research experience</h3>
+
 Prior to my PhD, I have been involved in several research projects on the general topic of "stress". I have gained experience in *in vivo* as well as *in vitro* applied research. Ultimately, I became more interested in analysis and modelling, and I further specialized in meta-research, bioinformatics and Bayesian statistics.
 
 <details>
@@ -69,6 +70,7 @@ Prior to my PhD, I have been involved in several research projects on the genera
 
 <br>
 <h3>Honors and Awards</h3>
+
 As of June 2021, I have received 6 awards at conferences, 1 award at a PhD competition in Pharmachology and 2 scholarships for internships. 
 
 <details>
@@ -93,7 +95,8 @@ As of June 2021, I have received 6 awards at conferences, 1 award at a PhD compe
 
 
 <h3>Presentations</h3>
-As of June 2021, I have presented posters at 10 (inter)national conferences, and I have been invited for oral presentations at 3 (inter)national conferences and at X other events
+
+As of June 2021, I have presented posters at 10 (inter)national conferences, and I have been invited for oral presentations at 4 (inter)national conferences and at 7 other events.
 
 <details>
   <summary><h4>Click for presentations</h4></summary>
@@ -127,7 +130,9 @@ As of June 2021, I have presented posters at 10 (inter)national conferences, and
 
 
 <h3>Teaching</h3>
+
 Work in progress
 
 <h3>Reviewing</h3>
+
 Work in progress
