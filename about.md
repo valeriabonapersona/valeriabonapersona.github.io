@@ -76,7 +76,7 @@ As of June 2021, I have received 6 awards at conferences, 1 award at a PhD compe
     
     
 |  Award | Where | When |
-|---------|----------|----------|----------|----------|
+|---------|----------|----------|
 | Best **oral presentation** | Translational Neuroscience Day (NL) | 2019 |
 | Best **oral presentation** | ONWAR PhD symposium (NL) | 2019 |
 | Best **poster** | Dutch Neuroscience Meeting (NL) | 2018 | 
