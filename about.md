@@ -13,7 +13,6 @@ I am an interdisciplinary scientist interested in biology as a dynamic process. 
 <br><br>
 Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
  
-
 <br><br>
 
 <h3>Research experience</h3>
@@ -39,6 +38,7 @@ Prior to my PhD, I have been involved in several research projects on the genera
     <summary><h4>Click for PhD courses</h4></summary>
   
   ##### In depth courses
+  * Teaching Neuroscience (UMC Brain Center, 2021)
   * Advanced Omics for Life Sciences (CS&D, Nov 2020)
   * Individual participant data meta-analyses (Julius Center, June 2020)
   * Neurobiology of stress and resilience (NSAS, August 2018)
@@ -93,7 +93,7 @@ As of June 2021, I have received 6 awards at conferences, 1 award at a PhD compe
    
 </details>
 
-
+<br>
 <h3>Presentations</h3>
 
 As of June 2021, I have presented posters at 10 (inter)national conferences, and I have been invited for oral presentations at 4 (inter)national conferences and at 7 other events.
@@ -128,11 +128,42 @@ As of June 2021, I have presented posters at 10 (inter)national conferences, and
    
 </details>
 
-
+<br>
 <h3>Teaching</h3>
 
-Work in progress
+During my PhD, I have supervised 6 (+3 co-supervision) students for internship/theses. I have given several lectures in Bachelor and Master Neuroscience and Ethics courses, developed biology course material, and supervised students during practicals (small-group teaching). 
+Currently, I am working towards a teaching qualification for higher education (BKO, *Basiskwalificatie Onderwijs*). 
 
+
+|  What | Topic | University | Course | When |
+|---------|----------|----------|----------|
+| Supervision | Development stress-nl database | Vrije Universiteit Amsterdam (NL) |  Master Internship 6 months | 2020 |
+| Supervision | Development whole-brain temporal analysis | Utrecht University (NL) | Master Internship 9 months | 2019 |
+| Supervision | Early life adversity and immediate early genes | Utrecht University (NL) | Master Thesis 2 months | 2020 |
+| Supervision | GABA switch | Utrecht University (NL) | Master Thesis 2 months | 2020 |
+| Supervision | Early life adversity and GABA | University College Utrecht (NL) |  | 2019 |
+| Supervision | Sex-dependent behavior and early life adversity | University College Utrecht (NL) |  | 2018 |
+
+| Co-supervision | 3x | Utrecht University (NL) | Master Theses | 2017-2019 |
+
+| | | | |
+| Lecture | The mouse brain after foot-shock | Leiden University (NL) | Master course Neuroscience | 2021 |
+| Lecture | Methods in stress research | University College Utrecht (NL) | Bachelor course Cognitive Neuroscience | 2021 |
+| Lecture | Methods in stress research | University College Amsterdam (NL) | Bachelor course Stress research | 2019-2020 |
+| Lecture | Integrity and Data analysis | Utrecht University (NL) | Master course Fundamentals of Neuroscience | 2020 |
+| Lecture | Methods in animal research | University College Utrecht (NL) | Bachelor course Cognitive Neuroscience | 2019-2020 |
+| Lecture | What is Science | Utrecht University (NL) | Master course Fundamentals of Neuroscience | 2019 |
+| Lecture | Meta-research | Utrecht University (NL) | Master course Fundamentals of Neuroscience | 2018 |
+| | | | |
+| Practical | Layman communication | Utrecht University (NL) | Bachelor course Biology | 2017-2020 |
+| Practical | Microscopy | Utrecht University (NL) | Master course Fundamentals of Neuroscience | 2017-2020 |
+| Practical | Online Neuroscience Resources | Utrecht University (NL) | Master course Fundamentals of Neuroscience | 2017-2020 |
+| Practical | Microscopy | Utrecht University (NL) | Bachelor course Advanced Neuroscience | 2019 |
+   
+</details>
+
+
+<br>
 <h3>Reviewing</h3>
 
-Work in progress
+As of June 2021, I have reviewed manuscripts for *Hormones and Behavior*, *Scientific reports* and *Proceedings B*. 
