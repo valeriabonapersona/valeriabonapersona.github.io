@@ -34,7 +34,10 @@ Prior to my PhD, I have been involved in several research projects on the genera
 | Bachelor Internship | Dr. van Campen (lab Joëls) | Brain Center Rudolf Magnus (NL) | Quantification with Neurolucida of neuronal spine density in a mouse model of epilepsy | Aug 2013 - March 2014 |
 </details>
 
+
 <br><br>
+
+
 <h3>Education</h3>
 
 <img src="{{site.url}}/assets/images/education.svg" width="100" height="100" style="float: left;" padding="0">
@@ -72,10 +75,14 @@ Prior to my PhD, I have been involved in several research projects on the genera
   * Personal competences (July 2019)
 </details>
 
+
 <br><br>
+
+
 <h3>Honors and Awards</h3>
 
 <img src="{{site.url}}/assets/images/awards.svg" width="100" height="100" style="float: left;" >
+
 As of June 2021, I have received 6 awards at conferences, 1 award at a PhD competition in Pharmachology and 2 scholarships for internships. 
 
 </img>
@@ -100,7 +107,10 @@ As of June 2021, I have received 6 awards at conferences, 1 award at a PhD compe
    
 </details>
 
+
 <br><br>
+
+
 <h3>Presentations</h3>
 
 <img src="{{site.url}}/assets/images/presentations.svg" width="100" height="100" style="float: left;" >
@@ -137,7 +147,10 @@ As of June 2021, I have presented posters at 10 (inter)national conferences, and
    
 </details>
 
+
 <br><br>
+
+
 <h3>Teaching</h3>
 
 <img src="{{site.url}}/assets/images/teaching.svg" width="100" height="100" style="float: left;" >
@@ -177,6 +190,8 @@ Currently, I am working towards a teaching qualification for higher education (B
 
 
 <br><br>
+
+
 <h3>Reviewing</h3>
 
 <img src="{{site.url}}/assets/images/reviewing.svg" width="100" height="100" style="float: left;" >
