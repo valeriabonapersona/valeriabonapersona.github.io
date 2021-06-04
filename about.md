@@ -18,10 +18,12 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 
 
 <h3>Research experience</h3>
+<img src="{{site.url}}/assets/images/research.svg" width="100" height="100" style="float: left;" >
 
 Prior to my PhD, I have been involved in several research projects on the general topic of "stress". I have gained experience in *in vivo* as well as *in vitro* applied research. Ultimately, I became more interested in analysis and modelling, and I further specialized in meta-research, bioinformatics and Bayesian statistics.
 
-<img src="{{site.url}}/assets/images/research.svg" width="100" height="100" style="float: left;" >
+</img>
+
 <details>
     <summary><h4>Click for research experience</h4></summary>
     
@@ -72,12 +74,14 @@ Prior to my PhD, I have been involved in several research projects on the genera
   * Personal competences (July 2019)
 </details>
 
-<br>
+<br><br>
 <h3>Honors and Awards</h3>
+<img src="{{site.url}}/assets/images/awards.svg" width="100" height="100" style="float: left;" >
 
 As of June 2021, I have received 6 awards at conferences, 1 award at a PhD competition in Pharmachology and 2 scholarships for internships. 
 
-<img src="{{site.url}}/assets/images/awards.svg" width="100" height="100" style="float: left;" >
+</img>
+
 <details>
   <summary><h4>Click for awards</h4></summary>
     
