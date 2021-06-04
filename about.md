@@ -79,6 +79,7 @@ Prior to my PhD, I have been involved in several research projects on the genera
 <br><br>
 
 
+
 <h3>Honors and Awards</h3>
 
 <img src="{{site.url}}/assets/images/awards.svg" width="100" height="100" style="float: left;" >
