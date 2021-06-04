@@ -16,13 +16,11 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
 <br><br>
 
 
-
-<h3>Research experience</h3>
 <img src="{{site.url}}/assets/images/research.svg" width="100" height="100" style="float: left;" >
+<h3>Research experience</h3>
+</img>
 
 Prior to my PhD, I have been involved in several research projects on the general topic of "stress". I have gained experience in *in vivo* as well as *in vitro* applied research. Ultimately, I became more interested in analysis and modelling, and I further specialized in meta-research, bioinformatics and Bayesian statistics.
-
-</img>
 
 <details>
     <summary><h4>Click for research experience</h4></summary>
@@ -37,9 +35,9 @@ Prior to my PhD, I have been involved in several research projects on the genera
 </details>
 
 <br>
-<h3>Education</h3>
-
 <img src="{{site.url}}/assets/images/education.svg" width="100" height="100" style="float: left;" >
+<h3>Education</h3>
+</img>
 
 <details>
   <summary><h4>Click for my degrees</h4></summary>
@@ -74,9 +72,10 @@ Prior to my PhD, I have been involved in several research projects on the genera
   * Personal competences (July 2019)
 </details>
 
-<br><br>
-<h3>Honors and Awards</h3>
+<br>
 <img src="{{site.url}}/assets/images/awards.svg" width="100" height="100" style="float: left;" >
+<h3>Honors and Awards</h3>
+</img>
 
 As of June 2021, I have received 6 awards at conferences, 1 award at a PhD competition in Pharmachology and 2 scholarships for internships. 
 
@@ -103,11 +102,12 @@ As of June 2021, I have received 6 awards at conferences, 1 award at a PhD compe
 </details>
 
 <br>
+<img src="{{site.url}}/assets/images/presentations.svg" width="100" height="100" style="float: left;" >
 <h3>Presentations</h3>
+</img>
 
 As of June 2021, I have presented posters at 10 (inter)national conferences, and I have been invited for oral presentations at 4 (inter)national conferences and at 7 other events.
 
-<img src="{{site.url}}/assets/images/presentations.svg" width="100" height="100" style="float: left;" >
 <details>
   <summary><h4>Click for presentations</h4></summary>
     
@@ -139,12 +139,13 @@ As of June 2021, I have presented posters at 10 (inter)national conferences, and
 </details>
 
 <br>
+<img src="{{site.url}}/assets/images/teaching.svg" width="100" height="100" style="float: left;" >
 <h3>Teaching</h3>
+</img>
 
 During my PhD, I have supervised 6 (+3 co-supervision) students for internship/theses. I have given several lectures in Bachelor and Master Neuroscience and Ethics courses, developed biology course material, and supervised students during practicals (small-group teaching). 
 Currently, I am working towards a teaching qualification for higher education (BKO, *Basiskwalificatie Onderwijs*). 
 
-<img src="{{site.url}}/assets/images/teaching.svg" width="100" height="100" style="float: left;" >
 
 <details>
   <summary><h4>Click for teaching</h4></summary>
@@ -177,9 +178,9 @@ Currently, I am working towards a teaching qualification for higher education (B
 
 
 <br>
-<h3>Reviewing</h3>
-
 <img src="{{site.url}}/assets/images/reviewing.svg" width="100" height="100" style="float: left;" >
+<h3>Reviewing</h3>
+</img>
 
 As of June 2021, I have reviewed manuscripts for *Hormones and Behavior*, *Scientific reports* and *Proceedings B*. 
 
