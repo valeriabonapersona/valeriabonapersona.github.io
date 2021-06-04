@@ -1,5 +1,5 @@
 ---
-title: "Table"
+title: "Coming soon"
 layout: post
 date: 2020-04-30 20:36
 projects: true
@@ -10,8 +10,9 @@ author: valeriabonapersona
 externalLink: false
 ---
 
-|First Header | Second Header|
-|------------ | -------------|
-|Content from cell 1 | Content from cell 2|
-|Content in the first column | Content in the second column|
-{:.inner-borders}
+Descriptions of my projects are on their way!
+
+<img class="selfie" alt="{{ site.name }}" src="{{ site.url }}/assets/images/error.gif" />
+
+
+
