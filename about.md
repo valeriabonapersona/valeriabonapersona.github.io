@@ -15,6 +15,7 @@ Download a one-page CV [**here**](assets/Bonapersona_CV_Feb2021_onePage.pdf).
  
 <br><br>
 
+<img src="{{site.url}}/assets/images/research.svg" width="10%" height="10%" style="float: left;" > 
 <h3>Research experience</h3>
 
 Prior to my PhD, I have been involved in several research projects on the general topic of "stress". I have gained experience in *in vivo* as well as *in vitro* applied research. Ultimately, I became more interested in analysis and modelling, and I further specialized in meta-research, bioinformatics and Bayesian statistics.
