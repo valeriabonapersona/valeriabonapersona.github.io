@@ -18,13 +18,17 @@ power of animal experiments with historical control data. Nature Neuroscience, 2
 
 <br><br>
 
-PhD publications
+My publications
 ----
 
 **Bonapersona, V.**, Schuler, H, Damsteegt, R.D., van den Heuvel, M.P., Joëls, M.^, Sarabdjitsingh, R.A.^ (2021). Pipeline for 4D whole-brain microscopy 
 preprocessing and analysis. BiorXiv. doi: 10.1101/2021.05.03.442441
 [Preprint](https://doi.org/10.1101/2021.05.03.442441), [Web Tool](https://vbonapersona.shinyapps.io/brain_after_footshock/), [Code](https://github.com/valeriabonapersona/footshock_brain), 
 [R package](valeriabonapersona.github.io/abc4d), [osf](https://osf.io/8muvw/).
+
+Schuler, H.^, **Bonapersona, V.**^, Joëls, M.#, Sarabdjitsingh, R. A.# (2021). Effects of early life adversity on immediate early gene expression: systematic review and 3-level meta-analysis of rodent studies. BiorXiv. doi: 10.1101/2021.06.07.447369 
+[Preprint](https://doi.org/10.1101/2021.06.07.447369), [Code](https://github.com/valeriabonapersona/mIEG), [osf](https://osf.io/qkyvd/). 
+^ contributed equally
 
 
 **Bonapersona, V.**, Hoijtink, H., Sarabdjitsingh, R. A., & Joëls, M. (2021). Increasing the statistical 
