@@ -193,5 +193,5 @@ Currently, I am working towards a teaching qualification for higher education (B
 
 <img src="{{site.url}}/assets/images/reviewing.svg" width="100" height="100" style="float: left;" >
 
-As of June 2021, I have reviewed manuscripts for *Hormones and Behavior*, *Scientific reports* and *Proceedings B*. 
+As of June 2021, I have reviewed manuscripts for *Hormones and Behavior*, *PlosOne*, *Scientific reports* and *Proceedings B*. 
 
