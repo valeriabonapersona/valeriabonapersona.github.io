@@ -62,17 +62,12 @@ Prior to my PhD, I have been involved in several research projects on the genera
   * Teaching Neuroscience (UMC Brain Center, 2021)
   * Advanced Omics for Life Sciences (CS&D, Nov 2020)
   * Individual participant data meta-analyses (Julius Center, June 2020)
+  * Differential equations (MOOC, 2020)
   * Neurobiology of stress and resilience (NSAS, August 2018)
   * Writing reproducible code (UU, Dec 2019)
   * Systematic reviews and meta-analyses of preclinical animal studies (Radboud UMC, May 2019)
   * This thing called Science (Jan-Dec 2018)
     
-  ##### Soft-skills courses
-  * Analytic storytelling (Sep 2020)
-  * InDesign (Nov 2020)
-  * Science communication (May-June 2019)
-  * Explore personal qualities (2020)
-  * Personal competences (July 2019)
 </details>
 
 
@@ -123,17 +118,18 @@ As of June 2021, I have presented posters at 10 (inter)national conferences, and
     
 |  What | Where | When | 
 |---------|----------|----------|
-| Presentation conference *invite* | ASK MARIAN WHERE (NL) | 2021 | 
+| Presentation conference *invite* | O&O Symposium - Research Impact and Open Science (NL) | 2021 | 
 | Presentation conference *invite* | Open Science Symposium Utrecht (NL) | 2020 | 
 | Presentation conference *invite* | Dutch Neuroscience Meeting (NL) | 2019 | 
 | Presentation conference *invite* | Open Science Symposium Utrecht (NL) | 2020 | 
 | | | | 
-| Presentation *invite* | Social Lab (NL) | 2021 | 
-| Presentation *invite* | Laboratory Animal Workers Meeting (UMC, NL) | 2021 | 
-| Presentation *invite* | SYRCLE (NL) | 2021 | 
-| Presentation *invite* | CID Spotlight (ADD LINK) (NL) | 2020 | 
-| Presentation *invite* | Lucassen Lab (NL) | 2019 | 
-| Presentation *invite* | Kemner Lab (NL) | 2018 | 
+| Co-Seminar *invite* | Dept. Developmental Origins of Disease (NL) | 2021 | 
+| Seminar *invite* | Social Lab (NL) | 2021 | 
+| Seminar *invite* | Laboratory Animal Workers Meeting (UMC, NL) | 2021 | 
+| Seminar *invite* | SYRCLE (NL) | 2021 | 
+| Seminar *invite* | Consortium Individual Development Spotlight (NL) | 2020 | 
+| Seminar *invite* | Lucassen Lab (NL) | 2019 | 
+| Seminar *invite* | Kemner Lab (NL) | 2018 | 
 | | | | 
 | Poster | Equator (DE) | 2020 | 
 | Poster | Winter Stress conference (DE) | 2019 | 
